@@ -1,4 +1,4 @@
-# Python Guessing Game
+# Guess the Number Game
 
 Welcome to the Python Guessing Game! This simple command-line game challenges players to guess a randomly selected number between 1 and 100, with a choice of difficulty levels affecting the number of guesses allowed.
 
